@@ -1,0 +1,1 @@
+<h1> <?php echo $data['title']; ?> to HomePage</h1>
