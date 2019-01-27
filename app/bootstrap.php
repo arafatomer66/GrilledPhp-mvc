@@ -5,4 +5,3 @@
      require_once 'libraries/Database.php' ; 
  ?>
 
-<h1> GrilledPhp - MVC  </h1>
